@@ -313,7 +313,7 @@ const TaskList = () => {
                         <option value="Member 1">Team Member 1</option>
                         <option value="Member 2">Team Member 2</option>
                         <option value="Member 3">Team Member 3</option>
-                        <option value="Member 3">Team Member 4</option>
+                        <option value="Member 4">Team Member 4</option>
                       </select>
                     </td>
                     <td>
